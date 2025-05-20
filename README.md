@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="155" src="https://media1.tenor.com/m/3w9siqbo6XQAAAAd/pokemon.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
