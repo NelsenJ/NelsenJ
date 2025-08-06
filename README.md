@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NelsenJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&custom_title=My%20Github%20Stats" height="146" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=NelsenJ&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
 </div>
 
 ###
