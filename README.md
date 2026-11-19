@@ -1,1 +1,2 @@
-Masih Pemula
+Masih Pemula | "Prompt Matters A LOT"
+
